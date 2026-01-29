@@ -39,7 +39,7 @@ An AI-powered language learning tutor that adapts to your proficiency level and 
 1. **Clone the repository:**
 ```bash
 git clone <repository-url>
-cd Polyglot-Multilingual-Learning-Assistant
+cd AI-Language-Tutor
 ```
 
 2. **Install dependencies:**
