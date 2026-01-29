@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-openai
+langchain-ollama
+openai
+python-dotenv
+Pillow
+pydub
+faster-whisper
+streamlit-audiorecorder
+edge-tts
