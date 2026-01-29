@@ -1,10 +1,10 @@
-# 🌍 Polyglot - Multilingual Learning Assistant
+# 🌍 AI Language Tutor
 
 An AI-powered language learning tutor that adapts to your proficiency level and helps you learn multiple languages through conversation, exercises, and voice practice.
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/streamlit-latest-red.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 
 ## ✨ Features
 
@@ -282,9 +282,6 @@ Contributions are welcome! Feel free to:
 - Suggest new features
 - Submit pull requests
 
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ## 🙏 Acknowledgments
 
@@ -294,9 +291,3 @@ This project is licensed under the MIT License.
 - **edge-tts** - Text-to-speech synthesis
 - **OpenAI** - GPT models
 - **Ollama** - Local LLM runtime
-
----
-
-**Made with ❤️ for language learners worldwide**
-
-Start your multilingual journey today! 🌍✨
